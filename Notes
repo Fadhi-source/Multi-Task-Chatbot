@@ -1,0 +1,19 @@
+Configuration 🔑
+1 Get Hugging Face token:
+    Create account at huggingface.co
+    Go to Settings → Access Tokens
+    Create new token with WRITE access
+
+2 Add token to code:# In your notebook/code
+  HF_TOKEN = "hf_your_token_here"  # Replace with actual token
+
+3 Execute all cells sequentially
+    Interact with the Gradio interface
+    Select task type and input your query
+Example Inputs:
+
+FAQ: "What's your shipping policy?"
+
+Math: "If 5x + 3 = 18, solve for x"
+
+Joke: "programmers"
