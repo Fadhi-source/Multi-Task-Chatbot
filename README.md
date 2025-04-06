@@ -2,7 +2,6 @@
 
 A versatile chatbot handling FAQs, math problems, and joke generation using different prompting techniques with Hugging Face models.
 
-![Chatbot Interface]("C:\Users\8748f\OneDrive\Pictures\Screenshots\Screenshot 2025-04-06 123430.png")
 
 
 ## Features ✨
