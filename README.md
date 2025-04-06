@@ -18,12 +18,3 @@ A versatile chatbot handling FAQs, math problems, and joke generation using diff
 - **Gradio** for UI
 - Python 3.8+
 
-## Installation 📦
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/multitask-chatbot.git
-cd multitask-chatbot
-
-# Install dependencies
-pip install gradio requests python-dotenv
